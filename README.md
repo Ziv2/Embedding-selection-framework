@@ -26,7 +26,7 @@ A comprehensive framework for evaluating and selecting the most suitable embeddi
 
 1. Clone the repository:
 ```bash
-git@github.com:Ziv2/Embedding_handler.git
+git@github.com:Ziv2/Embedding-selection-framework.git
 cd embedding-selection-framework
 ```
 
