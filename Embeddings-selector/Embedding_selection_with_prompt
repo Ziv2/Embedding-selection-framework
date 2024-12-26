@@ -1,0 +1,33 @@
+Your task is to find the best embedding model for the following task:
+
+My budget is:  (in $ per 1 M tokens)
+My preference (1 for best speed, up to 10 for best quality). 
+
+
+Task description:
+Does semantics understending is needed?
+does Fine-tuning is needed?
+is it Task-specific?
+Risk of overfitting with small datasets?
+does the tasks involving relationships between entities?,
+What is the task complexity? (e.g., sentiment analysis vs. summarization)
+
+Data description 
+Describe the data structure.
+
+Is it text / list of texts / Words / Contextualized Words /Sentences / Documents
+data size: 
+data type: 
+languages: 
+Does Character and Subword Embedding is needed?
+Handling out-of-vocabulary words is needed ?
+Data availability (e.g., pretrained for small data, custom for domain-specific tasks),
+high-quality or low quality dataset?,
+
+General: 
+maximal time to compute the embeddings?
+ what  Computational resources are available? (e.g., static embeddings for faster training, contextual embeddings for accuracy)?,
+write your answer in the following form: 
+1. The Embedding method that fits the best to the description.
+2. The task category
+3. The data structure. 
